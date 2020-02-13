@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://cdn.hsbc.ae/content/dam/hsbc/ae/images/credit-cards/premier-black-new.jpg");
+  background-repeat: no-repeat;
+}
+.input {
+  margin-left: 60%;
+  margin-right: 15%;
+  margin-top: 15%;
+  display: flex;
+  flex-direction: column;
+}
+.number {
+  color: white;
+  margin-left: 20%;
+  font-size: 200%;
+}
+.name {
+  color: white;
+  margin-left: 3%;
+  margin-top: 2%;
+  font-size: 200%;
+}
+.date {
+  color: white;
+  margin-left: 35%;
+  font-size: 150%;
+}
